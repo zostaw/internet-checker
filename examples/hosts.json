@@ -1,0 +1,7 @@
+{
+    "hosts":
+        ["google.com",
+         "amazon.com",
+         "example.com"
+        ]
+}
